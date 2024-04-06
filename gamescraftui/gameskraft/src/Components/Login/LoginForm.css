@@ -1,0 +1,73 @@
+*, *:before, *:after {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    color: #6C6C6C;
+}
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .login-image {
+    flex: 1;
+    height: 100%;
+    background-image: url('wallpaper.webp'); /* Add your image URL here */
+    background-size: cover;
+  }
+  .cover_bgg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 48.5%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+  .login-form-container {
+    flex: 1;
+    padding: 20px;
+  }
+  .login-form-info{
+    flex: 1;
+    padding: 20px;
+   
+  }
+  .login-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    color: #1F2933;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+    resize: none;
+}
+  button:hover {
+    background-color: #7eb900;
+  }
+  .pass-link, a {
+    color: #f30a5c;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.31;
+    text-decoration: none;
+}
+  .form-group.fp-link {
+    margin-top: 20px;
+}
+a.df-acct-a {
+    margin-left: 10px;
+}

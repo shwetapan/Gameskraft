@@ -1,0 +1,52 @@
+/* Overall News Feed Styles */
+.news-feed {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1000px; /* Adjust as needed */
+    padding: 20px;
+  }
+  
+  /* Individual News Item Styles */
+  .news-item {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: calc(33% - 20px); /* Adjust for desired column count */
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .news-item:hover {
+    transform: scale(1.02); /* Add subtle hover effect */
+  }
+  
+  .news-item img {
+    width: 100%;
+    height: 200px; /* Adjust image height as needed */
+    object-fit: cover; /* Crop images to fit container */
+  }
+  
+  .news-item h3 {
+    padding: 10px;
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .news-item p {
+    padding: 10px;
+    margin: 0;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.5em;
+  }
+  
+  .news-item a {
+    text-decoration: none;
+    color: inherit;
+  }
+  

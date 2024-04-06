@@ -1,0 +1,65 @@
+[
+    {
+        
+            "id": 1,
+            "title": "Event Title 1",
+            "image": "https://pro-theme.com/html/teamhost/assets/img/t1.jpg",
+            "description": "Short description of event 1",
+            "date": "2024-04-20",
+            "time": "10:00 AM",
+            "location": "Event Location",
+            "details": "More detailed information about the event"
+    },
+    {
+        "id": 2,
+            "title": "Event Title 1",
+            "image": "https://pro-theme.com/html/teamhost/assets/img/t2.jpg",
+            "description": "Short description of event 1",
+            "date": "2024-04-20",
+            "time": "10:00 AM",
+            "location": "Event Location",
+            "details": "More detailed information about the event"
+      },
+      {
+        
+        "id": 3,
+        "title": "Event Title 1",
+        "image": "https://pro-theme.com/html/teamhost/assets/img/t1.jpg",
+        "description": "Short description of event 1",
+        "date": "2024-04-20",
+        "time": "10:00 AM",
+        "location": "Event Location",
+        "details": "More detailed information about the event"
+},
+{
+    "id": 4,
+        "title": "Event Title 1",
+        "image": "https://pro-theme.com/html/teamhost/assets/img/t2.jpg",
+        "description": "Short description of event 1",
+        "date": "2024-04-20",
+        "time": "10:00 AM",
+        "location": "Event Location",
+        "details": "More detailed information about the event"
+  },
+  {
+        
+    "id": 5,
+    "title": "Event Title 1",
+    "image": "https://pro-theme.com/html/teamhost/assets/img/t1.jpg",
+    "description": "Short description of event 1",
+    "date": "2024-04-20",
+    "time": "10:00 AM",
+    "location": "Event Location",
+    "details": "More detailed information about the event"
+},
+{
+"id": 6,
+    "title": "Event Title 1",
+    "image": "https://pro-theme.com/html/teamhost/assets/img/t2.jpg",
+    "description": "Short description of event 1",
+    "date": "2024-04-20",
+    "time": "10:00 AM",
+    "location": "Event Location",
+    "details": "More detailed information about the event"
+}
+  ]
